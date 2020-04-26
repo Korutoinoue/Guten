@@ -1,5 +1,5 @@
 CXX ?= g++
-NAVIO = ../../Navio
+NAVIO = ../Navio
 INCLUDES = -I ../../Navio
 PIGPIO = -L$(PIGPIO_PATH)
 INCLUDES = -I ../../Navio -I$(PIGPIO_PATH)
