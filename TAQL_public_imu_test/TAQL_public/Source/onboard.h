@@ -12,7 +12,7 @@
 #include <memory>
 
 
-using namespace Navio;
+//using namespace Navio;
 
 //Auto Ptr copying from Dr.Johnson's code 
 /*
