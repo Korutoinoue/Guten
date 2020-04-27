@@ -4,9 +4,9 @@
 #include "stateDerivative.h"
 
 // From the AccelGyroMag.cpp example
-#include "Navio/Common/MPU9250.h"
-#include "Navio/Navio2/LSM9DS1.h"
-#include "Navio/Common/Util.h"
+#include "../Navio/Common/MPU9250.h"
+#include "../Navio/Navio2/LSM9DS1.h"
+#include "../Navio/Common/Util.h"
 #include <unistd.h>
 #include <string>
 #include <memory>
